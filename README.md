@@ -77,5 +77,5 @@ This project is licensed under the MIT License.
 
 ## 📩 Contact  
 For any queries, feel free to reach out:  
-📧 Email: your-dubeyutkarsh101@gmail.com  
-🔗 GitHub: [Utkarsh](https://github.com/iuttkarshh0409)  
+📧 Email: dubeyutkarsh101@gmail.com  
+🔗 GitHub: [Utkarsh's a/c](https://github.com/iuttkarshh0409)  
