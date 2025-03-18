@@ -10,7 +10,6 @@ EduSync is a **React Native** mobile application designed to help students stay 
 ✅ **Notifications** – Get reminders for upcoming classes.  
 ✅ **Course Management** – Add, update, and remove courses.  
 ✅ **Offline Access** – View schedules even without an internet connection.  
-✅ **Dark Mode** – Switch between light and dark themes.  
 
 ## 🛠️ Tech Stack  
 - **Frontend**: React Native  
@@ -21,19 +20,19 @@ EduSync is a **React Native** mobile application designed to help students stay 
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/yourusername/EduSync.git
-cd EduSync
+git clone https://github.com/iuttkarshh0409/EduSync.git
+cd EduSync-backend
 ```
 
 ### 2️⃣ Install Dependencies  
 #### **Frontend** (React Native)  
 ```sh
-cd frontend
+cd EduSync-frontend
 npm install
 ```
 #### **Backend** (Node.js & Express.js)  
 ```sh
-cd backend
+cd EduSync-backend
 npm install
 ```
 
@@ -52,18 +51,18 @@ DB_NAME=your_database
 
 #### Start Backend  
 ```sh
-cd backend
+cd EduSync-backend
 npm start
 ```
 #### Start Frontend  
 ```sh
-cd frontend
+cd EduSync-frontend
 npx react-native run-android   # For Android  
 npx react-native run-ios       # For iOS (Mac only)  
 ```
 
 ## 🎨 Screenshots  
-_(Add relevant screenshots of the app interface here.)_  
+***********_______________________************
 
 ## 🤝 Contributing  
 We welcome contributions! To contribute:  
@@ -78,5 +77,5 @@ This project is licensed under the MIT License.
 
 ## 📩 Contact  
 For any queries, feel free to reach out:  
-📧 Email: your-email@example.com  
-🔗 GitHub: [YourUsername](https://github.com/yourusername)  
+📧 Email: your-dubeyutkarsh101@gmail.com  
+🔗 GitHub: [Utkarsh](https://github.com/iuttkarshh0409)  
